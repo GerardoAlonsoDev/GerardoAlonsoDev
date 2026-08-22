@@ -7,10 +7,10 @@
 
 ---
 
-### 💻 Sobre mí
-* 🎓 Estudiante de ingeniería enfocado en crear soluciones tecnológicas funcionales.
-* 🚀 Creador de proyectos propios como **M-Tech** y **STAZONDRIVER**.
-* 🛠️ Apasionado por la programación, el soporte técnico y las bases de datos.
+###  Sobre mí
+* Estudiante de ingeniería enfocado en crear soluciones tecnológicas funcionales.
+* Creador de proyectos propios como **M-Tech** y **STAZONDRIVER**.
+* Apasionado por la programación, el soporte técnico y las bases de datos.
 
 ---
 
