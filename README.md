@@ -1,16 +1,26 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**GerardoAlonsoDev/GerardoAlonsoDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hola, soy Gerardo Martínez 👋
+### Estudiante de Ingeniería en Sistemas | Desarrollador
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 💻 Sobre mí
+* 🎓 Estudiante de ingeniería enfocado en crear soluciones tecnológicas funcionales.
+* 🚀 Creador de proyectos propios como **M-Tech** y **STAZONDRIVER**.
+* 🛠️ Apasionado por la programación, el soporte técnico y las bases de datos.
+
+---
+
+### 🛠️ Tecnologías y Herramientas
+* **Lenguajes:** Java, C, HTML, CSS, JavaScript
+* **Bases de datos:** Gestión y manejo
+* **Herramientas:** Git, GitHub, VS Code, Microsoft 365
+
+---
+
+### 📫 Contacto y Redes
+* 💼 GitHub: [GerardoAlonsoDev](https://github.com/GerardoAlonsoDev)
+* 📧 Correo: gerardoalonsomartinez246@gmail.com
