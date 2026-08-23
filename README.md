@@ -1,7 +1,7 @@
 <div align="center">
 
 # Hola, soy Gerardo Martínez 👋
-<img src="/basilica.jpg">
+<img src="/Banner Profesional.svg">
 
 </div>
 
