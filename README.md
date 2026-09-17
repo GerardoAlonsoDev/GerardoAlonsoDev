@@ -31,4 +31,5 @@
 
 ### 📫 Contacto y Redes
 * 💼 GitHub: [GerardoAlonsoDev](https://github.com/GerardoAlonsoDev)
+* 💼 Portafolio completo: https://gerardoalonsodev.github.io/portafolio/
 * 📧 Correo: gerardoalonsomartinez246@gmail.com
