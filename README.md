@@ -31,7 +31,7 @@
 | Categoría | Tecnologías Principales |
 | :--- | :--- |
 | **Lenguajes** | Java, C, HTML, CSS, JavaScript |
-| **Bases de Datos** | PostgreSQL, Supabase |
+| **Bases de Datos** | SQL server, Supabase |
 | **Herramientas & Entornos** | Git, GitHub, VS Code, Microsoft 365 |
 
 </div>
