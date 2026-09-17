@@ -1,35 +1,47 @@
 <div align="center">
 
-# Hola, soy Gerardo Martínez 👋
-<img src="/Banner Profesional.svg">
+  <h1>Hola, soy Gerardo Alonso Martínez 👋</h1>
+  <p><em>Estudiante de ingeniería & Creador de M-Tech</em></p>
+
+  <p>
+    <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
+    <img src="https://img.shields.io/badge/Supabase-%233FCF8E.svg?style=for-the-badge&logo=supabase&logoColor=white" />
+    <img src="https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
+  </p>
 
 </div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-</p>
+<hr/>
 
+<h3>📌 Sobre mí</h3>
+<ul>
+  <li>Estudiante de ingeniería enfocado en crear soluciones tecnológicas funcionales y robustas.</li>
+  <li>Impulsor de proyectos de desarrollo independientes bajo la marca <strong>M-Tech</strong> y aplicaciones como <strong>StazOnDriver</strong>.</li>
+  <li>Apasionado por la arquitectura de software, la lógica de programación y la optimización de bases de datos.</li>
+</ul>
 
----
+<hr/>
 
-###  Sobre mí
-* Estudiante de ingeniería enfocado en crear soluciones tecnológicas funcionales.
-* Creador de proyectos propios como **M-Tech** y **STAZONDRIVER**.
-* Apasionado por la programación, el soporte técnico y las bases de datos.
+<h3>🛠️ Stack Tecnológico</h3>
+<br>
 
----
+<div align="center">
 
-### 🛠️ Tecnologías y Herramientas
-* **Lenguajes:** Java, C, HTML, CSS, JavaScript
-* **Bases de datos:** Gestión y manejo
-* **Herramientas:** Git, GitHub, VS Code, Microsoft 365
+| Categoría | Tecnologías Principales |
+| :--- | :--- |
+| **Lenguajes** | Java, C, JavaScript, HTML5, CSS3 |
+| **Bases de Datos** | PostgreSQL, Supabase |
+| **Entornos & Control** | Git, GitHub, VS Code |
+| **Productividad** | Microsoft 365, Vercel |
 
----
+</div>
 
-### 📫 Contacto y Redes
-* 💼 GitHub: [GerardoAlonsoDev](https://github.com/GerardoAlonsoDev)
-* 💼 Portafolio completo: https://gerardoalonsodev.github.io/portafolio/
-* 📧 Correo: gerardoalonsomartinez246@gmail.com
+<hr/>
+
+<h3>📫 Conectemos</h3>
+<ul>
+  <li>💼 <strong>GitHub:</strong> <a href="https://github.com/GerardoAlonsoDev" target="_blank">GerardoAlonsoDev</a></li>
+  <li>🌐 <strong>Portafolio Web:</strong> <a href="https://gerardoalonsodev.github.io/portafolio/" target="_blank">M-Tech Portafolio Oficial</a></li>
+  <li>📧 <strong>Correo Electrónico:</strong> <a href="mailto:gerardoalonsomartinez246@gmail.com">gerardoalonsomartinez246@gmail.com</a></li>
+</ul>
