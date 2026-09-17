@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>Hola, soy Gerardo Alonso Martínez 👋</h1>
-  <p><em>Estudiante de ingeniería & Creador de M-Tech</em></p>
+  <img src="/Banner Profesional.svg" alt="Banner Profesional de M-Tech">
 
   <p>
     <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,31 +17,30 @@
 <h3>📌 Sobre mí</h3>
 <ul>
   <li>Estudiante de ingeniería enfocado en crear soluciones tecnológicas funcionales y robustas.</li>
-  <li>Impulsor de proyectos de desarrollo independientes bajo la marca <strong>M-Tech</strong> y aplicaciones como <strong>StazOnDriver</strong>.</li>
-  <li>Apasionado por la arquitectura de software, la lógica de programación y la optimización de bases de datos.</li>
+  <li>Creador de proyectos propios como <strong>M-Tech</strong> y <strong>STAZONDRIVER</strong>.</li>
+  <li>Apasionado por la programación, el soporte técnico y las bases de datos.</li>
 </ul>
 
 <hr/>
 
-<h3>🛠️ Stack Tecnológico</h3>
+<h3>🛠️ Tecnologías y Herramientas</h3>
 <br>
 
 <div align="center">
 
 | Categoría | Tecnologías Principales |
 | :--- | :--- |
-| **Lenguajes** | Java, C, JavaScript, HTML5, CSS3 |
+| **Lenguajes** | Java, C, HTML, CSS, JavaScript |
 | **Bases de Datos** | PostgreSQL, Supabase |
-| **Entornos & Control** | Git, GitHub, VS Code |
-| **Productividad** | Microsoft 365, Vercel |
+| **Herramientas & Entornos** | Git, GitHub, VS Code, Microsoft 365 |
 
 </div>
 
 <hr/>
 
-<h3>📫 Conectemos</h3>
+<h3>📫 Contacto y Redes</h3>
 <ul>
   <li>💼 <strong>GitHub:</strong> <a href="https://github.com/GerardoAlonsoDev" target="_blank">GerardoAlonsoDev</a></li>
-  <li>🌐 <strong>Portafolio Web:</strong> <a href="https://gerardoalonsodev.github.io/portafolio/" target="_blank">M-Tech Portafolio Oficial</a></li>
-  <li>📧 <strong>Correo Electrónico:</strong> <a href="mailto:gerardoalonsomartinez246@gmail.com">gerardoalonsomartinez246@gmail.com</a></li>
+  <li>🌐 <strong>Portafolio completo:</strong> <a href="https://gerardoalonsodev.github.io/portafolio/" target="_blank">https://gerardoalonsodev.github.io/portafolio/</a></li>
+  <li>📧 <strong>Correo:</strong> <a href="mailto:gerardoalonsomartinez246@gmail.com">gerardoalonsomartinez246@gmail.com</a></li>
 </ul>
